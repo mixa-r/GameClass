@@ -1,0 +1,7 @@
+C:\Users\rublev\source\repos\learn\Stepic\bin\Debug\Stepic.exe.config
+C:\Users\rublev\source\repos\learn\Stepic\bin\Debug\Stepic.exe
+C:\Users\rublev\source\repos\learn\Stepic\bin\Debug\Stepic.pdb
+C:\Users\rublev\source\repos\learn\Stepic\obj\Debug\Stepic.csprojAssemblyReference.cache
+C:\Users\rublev\source\repos\learn\Stepic\obj\Debug\Stepic.csproj.CoreCompileInputs.cache
+C:\Users\rublev\source\repos\learn\Stepic\obj\Debug\Stepic.exe
+C:\Users\rublev\source\repos\learn\Stepic\obj\Debug\Stepic.pdb
